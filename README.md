@@ -35,7 +35,7 @@ I love building real-world projects, exploring Artificial Intelligence, and work
 🔹 [**Task Management Dashboard**](https://github.com/kasaudhanshivani/task-dashboard)  
 📊 React + Redux task manager with CRUD, filters, and responsive UI.  
 
-🔹 **Attendance Management with Face Recognition**  
+🔹  [**SMS SPAM DETECTION **](https://shivanik.streamlit.app/)  
 🎓 AICTE-TechSaksham Internship project (in progress).  
 
 🔹 **Mini Projects**  
