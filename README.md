@@ -24,23 +24,21 @@ I love building real-world projects, exploring Artificial Intelligence, and work
 ---
 
 ### 🏆 Achievements
-- Internship as **Software Development Engineer @ BUEStock Fintech** (Jun–Jul 2024).  
-- Certifications from **Forage** in Artificial Intelligence & Cybersecurity.  
+  - Certifications from **Forage** in Artificial Intelligence & Cybersecurity.  
 - Active participant in hackathons and AI/ML challenges.  
 
 ---
 
 ### 🌱 Currently Learning
-- Preparing for **GATE (DA – Data Science & AI)**.  
 - Exploring **Deep Learning & AI integrations**.  
 - Advanced **Full-Stack Development**.  
 
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/shivani-kasaudhanu-513422258)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shivani-kasaudhan-513422258/)  
 - 👩‍💻 [GitHub](https://github.com/kasaudhanshivani)  
-- 📷 Instagram: [Coding Junction](https://www.instagram.com/)  
+- 📷 [leetcode](https://leetcode.com/u/kasaudhanshivani/)  
 
 ---
 
@@ -51,7 +49,8 @@ I love building real-world projects, exploring Artificial Intelligence, and work
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kasaudhanshivani)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Profile views](https://komarev.com/ghpvc/?username=kasaudhanshivani&color=blue)
+![Profile Hits](https://komarev.com/ghpvc/?username=kasaudhanshivani&label=Profile%20Visits&color=ff69b4&style=for-the-badge)
+
 
 ---
 
