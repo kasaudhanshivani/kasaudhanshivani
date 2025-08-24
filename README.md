@@ -1,47 +1,73 @@
-# Hi there, I'm Shivani Kasaudhan! 👋
+# 👩‍💻 Shivani Kasaudhan
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=kasaudhanshivani.kasaudhanshivani)
-
-🔭 I’m currently working on:
-- Exciting projects involving web development and machine learning.
-- Enhancing my skills in JavaScript, Python, and other programming languages.
-
-🌱 I’m currently learning:
-- Advanced algorithms and data structures.
-- Deep learning and artificial intelligence techniques.
-
-👯 I’m looking to collaborate on:
-- Open source projects related to web development and AI.
-- Innovative projects that make a positive impact.
-
-💬 Ask me about:
-- Web development frameworks like React and Angular.
-- Machine learning algorithms and their applications.
-
-📫 How to reach me:
-- Email: kasaudhanshivani@example.com
-- LinkedIn: [Shivani Kasaudhan](https://www.linkedin.com/in/kasaudhanshivani/)
-- Twitter: [@kasaudhanshivani](https://twitter.com/kasaudhanshivani)
-
-⚡ Fun fact:
-- I love painting and often spend my weekends exploring new art techniques.
+### 🚀 About Me
+I’m a passionate **Full-Stack Developer** and **AI/ML Enthusiast**, currently pursuing **B.Tech in Computer Science (Data Science)** at **KCC Institute of Technology and Management**.  
+I love building real-world projects, exploring Artificial Intelligence, and working on innovative solutions that create impact.  
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasaudhanshivani&show_icons=true&count_private=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kasaudhanshivani&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kasaudhanshivani&theme=radical)
-
-## 📈 Contribution Graph
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=kasaudhanshivani&theme=radical)
+### 🔧 Tech Stack
+- **Languages:** C, C++, Java, Python, JavaScript  
+- **Web Development:** HTML, CSS, React.js, Node.js, Express.js  
+- **Databases:** MySQL  
+- **Tools & Platforms:** Git, GitHub, IntelliJ IDEA, Linux/Unix, Vercel, Streamlit  
+- **Special Interests:** Machine Learning, AI, Data Science  
 
 ---
 
-_Last updated on 2025-01-28 08:42:41 UTC_
+### 📌 Projects
+- **[Gemini Clone](https://github.com/kasaudhanshivani/gemini_clone)** – AI-powered chatbot clone with React + API integration.  
+- **[Task Management Dashboard](https://github.com/kasaudhanshivani/task-dashboard)** – React + Redux-based dashboard for tasks with CRUD, filters, and responsive UI.  
+- **Attendance Management with Face Recognition** – AICTE-TechSaksham Internship project (in progress).  
+- **Mini Projects:** Portfolio Website, Robo Speaker, Login Page, Tic-Tac-Toe, Rock-Paper-Scissors.  
+
+---
+
+### 🏆 Achievements
+- Internship as **Software Development Engineer @ BUEStock Fintech** (Jun–Jul 2024).  
+- Certifications from **Forage** in Artificial Intelligence & Cybersecurity.  
+- Active participant in hackathons and AI/ML challenges.  
+
+---
+
+### 🌱 Currently Learning
+- Preparing for **GATE (DA – Data Science & AI)**.  
+- Exploring **Deep Learning & AI integrations**.  
+- Advanced **Full-Stack Development**.  
+
+---
+
+### 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/shivani-kasaudhanu-513422258)  
+- 👩‍💻 [GitHub](https://github.com/kasaudhanshivani)  
+- 📷 Instagram: [Coding Junction](https://www.instagram.com/)  
+
+---
+
+### 📊 GitHub Stats
+
+![Shivani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasaudhanshivani&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasaudhanshivani&layout=compact&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kasaudhanshivani)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Profile views](https://komarev.com/ghpvc/?username=kasaudhanshivani&color=blue)
+
+---
+
+### ✍️ Blog & Articles
+
+*Coming soon…*  
+<!-- You can add links to your articles or blog posts here. -->
+
+---
+
+### 🎨 Fun Facts
+
+- 🧘‍♀️ Love meditation and mindfulness.
+- 🎵 Enjoy listening to music while coding.
+- 📚 Always eager to learn something new.
+
+---
+
+✨ *"Code, Learn, Build, Repeat – that’s my mantra!"* ✨
