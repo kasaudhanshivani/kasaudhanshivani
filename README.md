@@ -36,7 +36,7 @@ I love building real-world projects, exploring Artificial Intelligence, and work
 📊 React + Redux task manager with CRUD, filters, and responsive UI.  
 
 🔹  [**SMS SPAM DETECTION **](https://shivanik.streamlit.app/)  
-🎓 AICTE-TechSaksham Internship project (in progress).  
+🎓 AICTE-TechSaksham Internship project 
 
 🔹 **Mini Projects**  
 🌐 Portfolio Website, Robo Speaker, Login Page, Tic-Tac-Toe, Rock-Paper-Scissors.  
