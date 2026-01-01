@@ -66,8 +66,4 @@ I am a B.Tech (Computer Science — Data Science) student at KCC Institute of Te
 ## ⚡ Quick Pitch
 Software Engineer | Python Developer — Building practical, maintainable software and seeking SDE / internship opportunities.
 
----
-If you want, I can:
-- Shorten this for a LinkedIn summary,  
-- Produce a one-page resume from this content, or  
-- Expand project sections with tech details and code snippets.
+
