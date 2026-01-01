@@ -1,63 +1,73 @@
-👩‍💻 Shivani Kasaudhan  
-Software Engineer (Fresher) | Python Developer | Problem Solving Enthusiast  
+<h1 align="center">👩‍💻 Shivani Kasaudhan — Software Engineer | Python Developer</h1>
+
+<p align="center">
+  Software Engineer (Fresher) • Python Developer • Problem‑solving enthusiast  
+  Open to: Software Engineer / SDE Intern / Python Developer roles
+</p>
 
 ---
 
-🚀 About Me  
-I’m a B.Tech Computer Science (Data Science) student at **KCC Institute of Technology and Management (AKTU)**.  
-I enjoy building real-world software projects using **Python**, exploring backend and application development, and strengthening my problem-solving skills.
-
-I’m actively looking for **Software Engineer / SDE Intern / Python Developer** opportunities where I can learn, contribute, and grow as a developer.
+## 🧑‍🎓 About Me
+I am a B.Tech (Computer Science — Data Science) student at KCC Institute of Technology and Management (AKTU). I build practical software using Python and JavaScript, focusing on backend and full‑stack solutions, and enjoy solving algorithmic problems. I’m seeking opportunities to contribute to impactful projects and grow as an engineer.
 
 ---
 
-🔧 Tech Stack  
+## 🛠️ Tech Stack
 - **Languages:** Python, C++, JavaScript, SQL  
-- **Frontend:** HTML, CSS, React  
+- **Web:** HTML, CSS, React, Streamlit  
 - **Databases:** MySQL  
-- **Tools & Platforms:** Git, Linux (Basics), Vercel, Streamlit  
-- **Concepts:** OOP, basic data structures, APIs, debugging  
+- **Tools & Platforms:** Git, Linux (basics), Vercel, Streamlit  
+- **Concepts:** OOP, data structures & algorithms, REST APIs, debugging, unit testing
 
 ---
 
-📌 Featured Projects  
+## 🚀 Selected Projects
+- **SMS Spam Detection App** — Python ML project developed during AICTE TechSaksham Internship. Deployed with Streamlit.  
+  🔗 Live: [shivanik.streamlit.app](https://shivanik.streamlit.app/)
 
-🔹 **SMS Spam Detection App**  
-🎓 Python-based project developed during AICTE-TechSaksham Internship, deployed using Streamlit.  
-🔗 https://shivanik.streamlit.app/  
+- **Gemini Clone** — Conversational web application built with React and API integrations.  
+  📂 Source: [github.com/kasaudhanshivani/gemini_clone](https://github.com/kasaudhanshivani/gemini_clone)
 
-🔹 **Gemini Clone**  
-🚀 Conversational web application built using **React** with API integration.  
-🔗 https://github.com/kasaudhanshivani/gemini_clone  
+- **Task Management Dashboard** — React-based task manager featuring CRUD operations and responsive UI.
 
-🔹 **Task Management Dashboard**  
-📊 React-based task manager with CRUD operations and responsive UI.  
+- **Mini Projects** — Portfolio Website, Robo Speaker, Login Page, Tic-Tac-Toe, Rock-Paper-Scissors.
 
-🔹 **Mini Projects**  
-🌐 Portfolio Website, Robo Speaker, Login Page, Tic-Tac-Toe, Rock-Paper-Scissors.  
+(If you’d like, I can add detailed tech stacks, architecture notes, or notable implementation details for any project.)
 
 ---
 
-🏆 Achievements  
-- AICTE TechSaksham Internship (Python / Data Science)  
-- Certifications in **Python** and **SQL** (HackerRank)  
-- Active participant in coding challenges and hackathons  
+## 🎓 Education
+- B.Tech, Computer Science (Data Science) — KCC Institute of Technology and Management (AKTU)
 
 ---
 
-🌱 Currently Learning  
-- Core Software Engineering concepts  
-- Improving Python problem-solving skills  
-- Backend development fundamentals  
+## 🏆 Achievements & Certifications
+- AICTE TechSaksham Internship — Python / Data Science  
+- Certifications in Python and SQL (HackerRank)  
+- Active participant in coding contests and hackathons
 
 ---
 
-📫 Connect with Me  
-- **LinkedIn:** https://www.linkedin.com/in/shivani-kasaudhan-513422258  
-- **GitHub:** https://github.com/kasaudhanshivani  
-- **LeetCode:** https://leetcode.com/u/kasaudhanshivani/  
-- **GeeksforGeeks:** https://www.geeksforgeeks.org/user/skasaudc3sh/  
+## 🌱 Currently Learning
+- Core software engineering principles and system design fundamentals  
+- Advanced Python problem solving and algorithms  
+- Backend development best practices (API design, testing, deployment)
 
 ---
 
-✨ *“Code, Learn, Build, Repeat.”* ✨
+## 📫 Contact & Profiles
+- LinkedIn: [shivani-kasaudhan-513422258](https://www.linkedin.com/in/shivani-kasaudhan-513422258)  
+- GitHub: [kasaudhanshivani](https://github.com/kasaudhanshivani)  
+- LeetCode: [kasaudhanshivani](https://leetcode.com/u/kasaudhanshivani/)  
+- GeeksforGeeks: [skasaudc3sh](https://www.geeksforgeeks.org/user/skasaudc3sh/)
+
+---
+
+## ⚡ Quick Pitch
+Software Engineer | Python Developer — Building practical, maintainable software and seeking SDE / internship opportunities.
+
+---
+If you want, I can:
+- Shorten this for a LinkedIn summary,  
+- Produce a one-page resume from this content, or  
+- Expand project sections with tech details and code snippets.
