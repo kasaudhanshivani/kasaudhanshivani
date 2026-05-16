@@ -32,7 +32,6 @@ I am a B.Tech (Computer Science — Data Science) student at KCC Institute of Te
 
 - **Mini Projects** — Portfolio Website, Robo Speaker, Login Page, Tic-Tac-Toe, Rock-Paper-Scissors.
 
-(If you’d like, I can add detailed tech stacks, architecture notes, or notable implementation details for any project.)
 
 ---
 
